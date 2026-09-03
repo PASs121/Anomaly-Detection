@@ -1,0 +1,5 @@
+*.pyc
+*.zip
+*.7z
+libs/__pycache__/
+data/House_1.csv
